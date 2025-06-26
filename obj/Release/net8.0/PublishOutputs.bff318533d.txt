@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\blazorapp-1\build\emcc-props.json
+C:\Users\User\Desktop\blazorapp-1\build\web.config

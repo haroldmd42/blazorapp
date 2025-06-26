@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N4eWXm+Sl53POP+xw909Z8KL053C6KLHN+6lB/++RqE=",
+  "Hash": "X+5534/LoNI70+6O7obVH8naEHOsBARkszSoJ5NkLMs=",
   "Source": "blazorapp",
   "BasePath": "/",
   "Mode": "Root",
@@ -62,7 +62,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.js",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.js",
       "AssetKind": "Publish",
@@ -83,7 +83,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.js",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.js",
       "AssetKind": "Publish",
@@ -104,7 +104,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.wasm",
       "AssetKind": "Publish",
@@ -125,7 +125,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.runtime.js",
       "AssetKind": "Publish",
@@ -146,7 +146,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_CJK.dat",
       "AssetKind": "Publish",
@@ -167,7 +167,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_EFIGS.dat",
       "AssetKind": "Publish",
@@ -188,7 +188,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_no_CJK.dat",
       "AssetKind": "Publish",
@@ -209,7 +209,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/blazor.boot.json",
       "AssetKind": "Publish",
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "g384fhvckf",
-      "Integrity": "/EQGDoYX8cUL/u17jFMYKZSL57zIZh5qnMkByLeDoTY=",
+      "Fingerprint": "75rdt5r5xr",
+      "Integrity": "qyuxmgwMyJ0aTHOEzt1V0XOpPsqvum2vcuuPB5o8ViY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -230,7 +230,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\bz4kt1bit0-rqxhp8973g.gz",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.js.gz",
       "AssetKind": "Publish",
@@ -815,7 +815,7 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Linq.Expressions.wasm"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\5hmgy330kq-g384fhvckf.br",
+      "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\5hmgy330kq-75rdt5r5xr.br",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -829,14 +829,14 @@
       "RelatedAsset": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "jdh3kgov7j",
-      "Integrity": "t44D2An4A9VqUsQiyY+gtE2lLrRfq5qR8ZKHwUCA5Vs=",
+      "Fingerprint": "gmzei6uhzs",
+      "Integrity": "2PXwJ3S0nIQ5gc/6ZIsY5nsJMgxwlXkX7UCiouKNl50=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\blazor.publish.boot.json"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\5hmgy330kq-g384fhvckf.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\5hmgy330kq-75rdt5r5xr.gz",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -850,8 +850,8 @@
       "RelatedAsset": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "cwiq1tcugj",
-      "Integrity": "1KjCQ0/+Jiy+l7Q4+3vip38vl+NcTJsjqYa+OHdrGrM=",
+      "Fingerprint": "vluav2olru",
+      "Integrity": "jb/gK3dezDf8wz5D7SbIPqMan6O/m5PxPdSLDlkrd84=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -1025,7 +1025,7 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.wasm"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\931t3jfbjg-wazole0u43.br",
+      "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\931t3jfbjg-cm0xk6yudk.br",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1039,14 +1039,14 @@
       "RelatedAsset": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\blazorapp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "j9o6rkjjbl",
-      "Integrity": "qYQWvINy/xjMcjpO61HCyR9BeedWSOQDwS3xaMlksG4=",
+      "Fingerprint": "ri8v62e58b",
+      "Integrity": "42oDFeYhISl9DUvIdVaj6FDSSIzduOBrVDyoIRvDrUM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\blazorapp.wasm"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\931t3jfbjg-wazole0u43.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\931t3jfbjg-cm0xk6yudk.gz",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1060,8 +1060,8 @@
       "RelatedAsset": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\blazorapp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "nkm361isqe",
-      "Integrity": "Bx8nbsI51XcMmwZG/QiQ2bVKs5R/Pq1r25K+k9Rl0c4=",
+      "Fingerprint": "vs7jx76f5b",
+      "Integrity": "PwvniWaIOs0/80sFcvDMYrghwykZf3pAPX7ezWTu+DE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\blazorapp.wasm"
@@ -2435,7 +2435,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\s73v316r83-xteh9p4yli.gz",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.js.gz",
       "AssetKind": "Publish",
@@ -2456,7 +2456,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\w8mrire0ak-xjx70hiola.gz",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.runtime.js.gz",
       "AssetKind": "Publish",
@@ -2477,7 +2477,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\wb7uqrpyyg-keyssdiug3.gz",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.wasm.gz",
       "AssetKind": "Publish",
@@ -2540,7 +2540,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\blazorapp.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/blazorapp.wasm",
       "AssetKind": "Publish",
@@ -2551,8 +2551,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "wazole0u43",
-      "Integrity": "uHVMDNqNCKd+/tZEFmAizvH1iuKGqUADLJ1y+7ZG61s=",
+      "Fingerprint": "cm0xk6yudk",
+      "Integrity": "nHIvY1kcyRHPkWsyPs1BGRGUrSgfQUpDLUWLZIXbGlU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\blazorapp.wasm"
@@ -2561,7 +2561,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Blazored.Toast.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Blazored.Toast.wasm",
       "AssetKind": "Publish",
@@ -2582,7 +2582,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.Forms.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.wasm",
       "AssetKind": "Publish",
@@ -2603,7 +2603,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.wasm",
       "AssetKind": "Publish",
@@ -2624,7 +2624,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.Web.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.wasm",
       "AssetKind": "Publish",
@@ -2645,7 +2645,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "AssetKind": "Publish",
@@ -2666,7 +2666,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Abstractions.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.Abstractions.wasm",
       "AssetKind": "Publish",
@@ -2687,7 +2687,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Binder.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.Binder.wasm",
       "AssetKind": "Publish",
@@ -2708,7 +2708,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Json.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.Json.wasm",
       "AssetKind": "Publish",
@@ -2729,7 +2729,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Configuration.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.wasm",
       "AssetKind": "Publish",
@@ -2750,7 +2750,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
       "AssetKind": "Publish",
@@ -2771,7 +2771,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.wasm",
       "AssetKind": "Publish",
@@ -2792,7 +2792,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Logging.Abstractions.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.wasm",
       "AssetKind": "Publish",
@@ -2813,7 +2813,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Logging.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Logging.wasm",
       "AssetKind": "Publish",
@@ -2834,7 +2834,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Options.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Options.wasm",
       "AssetKind": "Publish",
@@ -2855,7 +2855,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Primitives.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Primitives.wasm",
       "AssetKind": "Publish",
@@ -2876,7 +2876,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.JSInterop.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.JSInterop.wasm",
       "AssetKind": "Publish",
@@ -2897,7 +2897,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.JSInterop.WebAssembly.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.wasm",
       "AssetKind": "Publish",
@@ -2918,7 +2918,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.Concurrent.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.Concurrent.wasm",
       "AssetKind": "Publish",
@@ -2939,7 +2939,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.NonGeneric.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.NonGeneric.wasm",
       "AssetKind": "Publish",
@@ -2960,7 +2960,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.Specialized.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.Specialized.wasm",
       "AssetKind": "Publish",
@@ -2981,7 +2981,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.wasm",
       "AssetKind": "Publish",
@@ -3002,7 +3002,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.ComponentModel.Annotations.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel.Annotations.wasm",
       "AssetKind": "Publish",
@@ -3023,7 +3023,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.ComponentModel.Primitives.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel.Primitives.wasm",
       "AssetKind": "Publish",
@@ -3044,7 +3044,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.ComponentModel.TypeConverter.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel.TypeConverter.wasm",
       "AssetKind": "Publish",
@@ -3065,7 +3065,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.ComponentModel.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel.wasm",
       "AssetKind": "Publish",
@@ -3086,7 +3086,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Console.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Console.wasm",
       "AssetKind": "Publish",
@@ -3107,7 +3107,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Diagnostics.DiagnosticSource.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Diagnostics.DiagnosticSource.wasm",
       "AssetKind": "Publish",
@@ -3128,7 +3128,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Linq.Expressions.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Linq.Expressions.wasm",
       "AssetKind": "Publish",
@@ -3149,7 +3149,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Linq.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Linq.wasm",
       "AssetKind": "Publish",
@@ -3170,7 +3170,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Memory.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Memory.wasm",
       "AssetKind": "Publish",
@@ -3191,7 +3191,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Http.Json.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Http.Json.wasm",
       "AssetKind": "Publish",
@@ -3212,7 +3212,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Http.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Http.wasm",
       "AssetKind": "Publish",
@@ -3233,7 +3233,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Primitives.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Primitives.wasm",
       "AssetKind": "Publish",
@@ -3254,7 +3254,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.ObjectModel.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ObjectModel.wasm",
       "AssetKind": "Publish",
@@ -3275,7 +3275,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Private.CoreLib.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Private.CoreLib.wasm",
       "AssetKind": "Publish",
@@ -3296,7 +3296,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Private.Uri.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Private.Uri.wasm",
       "AssetKind": "Publish",
@@ -3317,7 +3317,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Runtime.InteropServices.JavaScript.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime.InteropServices.JavaScript.wasm",
       "AssetKind": "Publish",
@@ -3338,7 +3338,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Runtime.Serialization.Primitives.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime.Serialization.Primitives.wasm",
       "AssetKind": "Publish",
@@ -3359,7 +3359,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Runtime.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime.wasm",
       "AssetKind": "Publish",
@@ -3380,7 +3380,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Text.Encodings.Web.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.Encodings.Web.wasm",
       "AssetKind": "Publish",
@@ -3401,7 +3401,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Text.Json.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.Json.wasm",
       "AssetKind": "Publish",
@@ -3422,7 +3422,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Text.RegularExpressions.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.RegularExpressions.wasm",
       "AssetKind": "Publish",
@@ -3443,7 +3443,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.Threading.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Threading.wasm",
       "AssetKind": "Publish",
@@ -3464,7 +3464,7 @@
       "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\publish\\System.wasm",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.wasm",
       "AssetKind": "Publish",
@@ -4589,11 +4589,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/EQGDoYX8cUL/u17jFMYKZSL57zIZh5qnMkByLeDoTY=\""
+          "Value": "\"qyuxmgwMyJ0aTHOEzt1V0XOpPsqvum2vcuuPB5o8ViY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:10:09 GMT"
+          "Value": "Thu, 26 Jun 2025 19:21:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4603,13 +4603,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/EQGDoYX8cUL/u17jFMYKZSL57zIZh5qnMkByLeDoTY="
+          "Value": "sha256-qyuxmgwMyJ0aTHOEzt1V0XOpPsqvum2vcuuPB5o8ViY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\5hmgy330kq-g384fhvckf.br",
+      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\5hmgy330kq-75rdt5r5xr.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4628,11 +4628,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t44D2An4A9VqUsQiyY+gtE2lLrRfq5qR8ZKHwUCA5Vs=\""
+          "Value": "\"2PXwJ3S0nIQ5gc/6ZIsY5nsJMgxwlXkX7UCiouKNl50=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:10:09 GMT"
+          "Value": "Thu, 26 Jun 2025 19:21:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4652,24 +4652,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/EQGDoYX8cUL/u17jFMYKZSL57zIZh5qnMkByLeDoTY=\""
+          "Value": "W/\"qyuxmgwMyJ0aTHOEzt1V0XOpPsqvum2vcuuPB5o8ViY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/EQGDoYX8cUL/u17jFMYKZSL57zIZh5qnMkByLeDoTY="
+          "Value": "sha256-qyuxmgwMyJ0aTHOEzt1V0XOpPsqvum2vcuuPB5o8ViY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\5hmgy330kq-g384fhvckf.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\5hmgy330kq-75rdt5r5xr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000392156863"
+          "Quality": "0.000392003136"
         }
       ],
       "ResponseHeaders": [
@@ -4679,15 +4679,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2549"
+          "Value": "2550"
         },
         {
           "Name": "ETag",
-          "Value": "\"1KjCQ0/+Jiy+l7Q4+3vip38vl+NcTJsjqYa+OHdrGrM=\""
+          "Value": "\"jb/gK3dezDf8wz5D7SbIPqMan6O/m5PxPdSLDlkrd84=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:10:09 GMT"
+          "Value": "Thu, 26 Jun 2025 19:21:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4707,19 +4707,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/EQGDoYX8cUL/u17jFMYKZSL57zIZh5qnMkByLeDoTY=\""
+          "Value": "W/\"qyuxmgwMyJ0aTHOEzt1V0XOpPsqvum2vcuuPB5o8ViY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/EQGDoYX8cUL/u17jFMYKZSL57zIZh5qnMkByLeDoTY="
+          "Value": "sha256-qyuxmgwMyJ0aTHOEzt1V0XOpPsqvum2vcuuPB5o8ViY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.br",
-      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\5hmgy330kq-g384fhvckf.br",
+      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\5hmgy330kq-75rdt5r5xr.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4736,11 +4736,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t44D2An4A9VqUsQiyY+gtE2lLrRfq5qR8ZKHwUCA5Vs=\""
+          "Value": "\"2PXwJ3S0nIQ5gc/6ZIsY5nsJMgxwlXkX7UCiouKNl50=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:10:09 GMT"
+          "Value": "Thu, 26 Jun 2025 19:21:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4758,13 +4758,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-t44D2An4A9VqUsQiyY+gtE2lLrRfq5qR8ZKHwUCA5Vs="
+          "Value": "sha256-2PXwJ3S0nIQ5gc/6ZIsY5nsJMgxwlXkX7UCiouKNl50="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\5hmgy330kq-g384fhvckf.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\5hmgy330kq-75rdt5r5xr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4773,7 +4773,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2549"
+          "Value": "2550"
         },
         {
           "Name": "Content-Type",
@@ -4781,11 +4781,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1KjCQ0/+Jiy+l7Q4+3vip38vl+NcTJsjqYa+OHdrGrM=\""
+          "Value": "\"jb/gK3dezDf8wz5D7SbIPqMan6O/m5PxPdSLDlkrd84=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:10:09 GMT"
+          "Value": "Thu, 26 Jun 2025 19:21:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4803,7 +4803,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1KjCQ0/+Jiy+l7Q4+3vip38vl+NcTJsjqYa+OHdrGrM="
+          "Value": "sha256-jb/gK3dezDf8wz5D7SbIPqMan6O/m5PxPdSLDlkrd84="
         }
       ]
     },
@@ -4869,7 +4869,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:09:57 GMT"
+          "Value": "Wed, 01 Nov 2023 01:05:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5022,7 +5022,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:09:57 GMT"
+          "Value": "Wed, 01 Nov 2023 01:05:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5046,12 +5046,12 @@
     },
     {
       "Route": "_framework/blazorapp.wasm",
-      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\931t3jfbjg-wazole0u43.br",
+      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\931t3jfbjg-cm0xk6yudk.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000059930481"
+          "Quality": "0.000059973612"
         }
       ],
       "ResponseHeaders": [
@@ -5061,15 +5061,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16685"
+          "Value": "16673"
         },
         {
           "Name": "ETag",
-          "Value": "\"qYQWvINy/xjMcjpO61HCyR9BeedWSOQDwS3xaMlksG4=\""
+          "Value": "\"42oDFeYhISl9DUvIdVaj6FDSSIzduOBrVDyoIRvDrUM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:10:09 GMT"
+          "Value": "Thu, 26 Jun 2025 19:17:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5089,24 +5089,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uHVMDNqNCKd+/tZEFmAizvH1iuKGqUADLJ1y+7ZG61s=\""
+          "Value": "W/\"nHIvY1kcyRHPkWsyPs1BGRGUrSgfQUpDLUWLZIXbGlU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uHVMDNqNCKd+/tZEFmAizvH1iuKGqUADLJ1y+7ZG61s="
+          "Value": "sha256-nHIvY1kcyRHPkWsyPs1BGRGUrSgfQUpDLUWLZIXbGlU="
         }
       ]
     },
     {
       "Route": "_framework/blazorapp.wasm",
-      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\931t3jfbjg-wazole0u43.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\931t3jfbjg-cm0xk6yudk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000049490250"
+          "Quality": "0.000049492700"
         }
       ],
       "ResponseHeaders": [
@@ -5116,15 +5116,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20205"
+          "Value": "20204"
         },
         {
           "Name": "ETag",
-          "Value": "\"Bx8nbsI51XcMmwZG/QiQ2bVKs5R/Pq1r25K+k9Rl0c4=\""
+          "Value": "\"PwvniWaIOs0/80sFcvDMYrghwykZf3pAPX7ezWTu+DE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:10:09 GMT"
+          "Value": "Thu, 26 Jun 2025 19:17:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5144,13 +5144,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uHVMDNqNCKd+/tZEFmAizvH1iuKGqUADLJ1y+7ZG61s=\""
+          "Value": "W/\"nHIvY1kcyRHPkWsyPs1BGRGUrSgfQUpDLUWLZIXbGlU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uHVMDNqNCKd+/tZEFmAizvH1iuKGqUADLJ1y+7ZG61s="
+          "Value": "sha256-nHIvY1kcyRHPkWsyPs1BGRGUrSgfQUpDLUWLZIXbGlU="
         }
       ]
     },
@@ -5173,11 +5173,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uHVMDNqNCKd+/tZEFmAizvH1iuKGqUADLJ1y+7ZG61s=\""
+          "Value": "\"nHIvY1kcyRHPkWsyPs1BGRGUrSgfQUpDLUWLZIXbGlU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:10:09 GMT"
+          "Value": "Thu, 26 Jun 2025 19:17:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5187,13 +5187,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uHVMDNqNCKd+/tZEFmAizvH1iuKGqUADLJ1y+7ZG61s="
+          "Value": "sha256-nHIvY1kcyRHPkWsyPs1BGRGUrSgfQUpDLUWLZIXbGlU="
         }
       ]
     },
     {
       "Route": "_framework/blazorapp.wasm.br",
-      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\931t3jfbjg-wazole0u43.br",
+      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\931t3jfbjg-cm0xk6yudk.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5202,7 +5202,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16685"
+          "Value": "16673"
         },
         {
           "Name": "Content-Type",
@@ -5210,11 +5210,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qYQWvINy/xjMcjpO61HCyR9BeedWSOQDwS3xaMlksG4=\""
+          "Value": "\"42oDFeYhISl9DUvIdVaj6FDSSIzduOBrVDyoIRvDrUM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:10:09 GMT"
+          "Value": "Thu, 26 Jun 2025 19:17:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5232,13 +5232,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qYQWvINy/xjMcjpO61HCyR9BeedWSOQDwS3xaMlksG4="
+          "Value": "sha256-42oDFeYhISl9DUvIdVaj6FDSSIzduOBrVDyoIRvDrUM="
         }
       ]
     },
     {
       "Route": "_framework/blazorapp.wasm.gz",
-      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\931t3jfbjg-wazole0u43.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\publish\\931t3jfbjg-cm0xk6yudk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5247,7 +5247,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20205"
+          "Value": "20204"
         },
         {
           "Name": "Content-Type",
@@ -5255,11 +5255,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Bx8nbsI51XcMmwZG/QiQ2bVKs5R/Pq1r25K+k9Rl0c4=\""
+          "Value": "\"PwvniWaIOs0/80sFcvDMYrghwykZf3pAPX7ezWTu+DE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:10:09 GMT"
+          "Value": "Thu, 26 Jun 2025 19:17:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5277,7 +5277,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Bx8nbsI51XcMmwZG/QiQ2bVKs5R/Pq1r25K+k9Rl0c4="
+          "Value": "sha256-PwvniWaIOs0/80sFcvDMYrghwykZf3pAPX7ezWTu+DE="
         }
       ]
     },
@@ -5580,7 +5580,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:09:58 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5733,7 +5733,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:09:58 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5872,7 +5872,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:09:58 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5970,7 +5970,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:09:58 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6109,7 +6109,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:09:58 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6207,7 +6207,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:09:58 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6346,7 +6346,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:09:58 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6444,7 +6444,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:09:58 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:14 GMT"
         },
         {
           "Name": "Cache-Control",
