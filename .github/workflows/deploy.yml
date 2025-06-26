@@ -3,7 +3,7 @@ name: Deploy Blazor WebAssembly to GitHub Pages
 on:
   push:
     branches:
-      - main  # Se ejecuta cuando haces push a main
+      - main
 
 permissions:
   contents: write
@@ -21,14 +21,11 @@ jobs:
         with:
           dotnet-version: '8.0.x'
 
-      - name: Clean build artifacts
-        run: dotnet clean
-
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore --no-cache
 
       - name: Build and publish with base path
-        run: dotnet publish -c Release -p:PublishTrimmed=false -p:BlazorWebAssemblyLoadAllGlobalizationData=true -p:BasePath=/blazorapp/ --nologo -o build
+        run: dotnet publish -c Release -p:PublishTrimmed=false -p:BlazorWebAssemblyLoadAllGlobalizationData=true -p:BasePath=/blazorapp/ -o build
 
       - name: Add .nojekyll file to prevent GitHub Pages processing
         run: echo > build/wwwroot/.nojekyll
