@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\blazorapp-1\bin\Release\net9.0\publish\build\web.config
+C:\Users\User\Desktop\blazorapp-1\bin\Release\net9.0\publish\build\blazorapp.staticwebassets.endpoints.json
+C:\Users\User\Desktop\blazorapp-1\bin\Release\net9.0\publish\build\wwwroot\appsettings.json
+C:\Users\User\Desktop\blazorapp-1\bin\Release\net9.0\publish\build\wwwroot\sample-data\weather.json
+C:\Users\User\Desktop\blazorapp-1\bin\Release\net9.0\publish\build\wwwroot\_framework\blazor.boot.json
+C:\Users\User\Desktop\blazorapp-1\bin\Release\net9.0\publish\web.config
