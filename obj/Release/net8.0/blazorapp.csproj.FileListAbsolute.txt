@@ -1040,6 +1040,6 @@ C:\Users\User\Desktop\blazorapp-1\obj\Release\net8.0\blazorapp.dll
 C:\Users\User\Desktop\blazorapp-1\obj\Release\net8.0\refint\blazorapp.dll
 C:\Users\User\Desktop\blazorapp-1\obj\Release\net8.0\blazorapp.pdb
 C:\Users\User\Desktop\blazorapp-1\obj\Release\net8.0\ref\blazorapp.dll
-C:\Users\User\Desktop\blazorapp-1\obj\Release\net8.0\compressed\l4yd6xn8qw-zn8wi090bb.gz
-C:\Users\User\Desktop\blazorapp-1\obj\Release\net8.0\compressed\gydv0z4xbz-xquw0uo07j.gz
-C:\Users\User\Desktop\blazorapp-1\obj\Release\net8.0\compressed\abqm1tlumk-c0r6m1c9jw.gz
+C:\Users\User\Desktop\blazorapp-1\obj\Release\net8.0\compressed\l4yd6xn8qw-vt1qh1lsaq.gz
+C:\Users\User\Desktop\blazorapp-1\obj\Release\net8.0\compressed\gydv0z4xbz-j0huay1ilq.gz
+C:\Users\User\Desktop\blazorapp-1\obj\Release\net8.0\compressed\abqm1tlumk-vrfx9esr50.gz

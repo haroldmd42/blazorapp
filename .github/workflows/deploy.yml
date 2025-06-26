@@ -19,16 +19,13 @@ jobs:
       - name: Setup .NET SDK
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: '8.0.x'  # Cambia si usas otra versión
+          dotnet-version: '8.0.x'
 
       - name: Restore dependencies
         run: dotnet restore
 
       - name: Build and publish
-        run: dotnet publish -c Release -o build
-
-      - name: Fix base href
-        run: sed -i 's|<base href="/" />|<base href="/blazorapp/" />|' build/wwwroot/index.html
+        run: dotnet publish -c Release -p:PublishTrimmed=false -p:BlazorWebAssemblyLoadAllGlobalizationData=true -p:BasePath=/blazorapp/ -o build
 
       - name: Add .nojekyll file
         run: echo > build/wwwroot/.nojekyll
