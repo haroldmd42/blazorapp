@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qRii9agyu/0aV8Kqto0jUsJQePA1x0scG5DX+z7IbBo=",
+  "Hash": "MuqL+MGFd+He+XePjv5NxVJhmLqhuoxq3ERYp6fILto=",
   "Source": "blazorapp",
   "BasePath": "/",
   "Mode": "Root",
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "dggexqy15i",
-      "Integrity": "zRN4RL5UvrNfYb79gopNbEwZDLhSqoQea3iwmvqySbs=",
+      "Fingerprint": "2k9ctm66vi",
+      "Integrity": "YvBQGNyCmckLwUllCglwjBx3zKPq+o9Knokxv8pl5ug=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net8.0\\blazor.boot.json"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "l0fu6qf47o",
-      "Integrity": "e/rJAscsSSSNN3Nfxx8j6xcxyIxqb4lqH4QP/K68Sr4=",
+      "Fingerprint": "8grq6fy3xi",
+      "Integrity": "eE8AgtqCma99VYbkFlg7R4bCp6kGkgVEqQDMvu6gJ+M=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net8.0\\blazorapp.pdb"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "6jnuioqdgl",
-      "Integrity": "omQn69TBnXU/qzYE4xfiBbQLdEo+YSHjluL9VOAzSD8=",
+      "Fingerprint": "2yc8heqiyo",
+      "Integrity": "iryoUAbgOQdG52GVsxOJh6WA0mmYQaCOWIVA9Y3flk4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\webcil\\blazorapp.wasm"
@@ -5645,7 +5645,7 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Resources.Reader.wasm"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\abqm1tlumk-dggexqy15i.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\abqm1tlumk-2k9ctm66vi.gz",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\",
@@ -5659,8 +5659,8 @@
       "RelatedAsset": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "tbfe1zhvkf",
-      "Integrity": "GSJCn7ZtsvJL6nH6S/mXuZpDWxjq4QokJLUkqUEfNtE=",
+      "Fingerprint": "v0ba0sy82q",
+      "Integrity": "T2bdRFfTlCoJLi/LSzYtiRuNyJgZHyuP28zkqVm1EnE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -6443,7 +6443,7 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.wasm"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\gydv0z4xbz-l0fu6qf47o.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\gydv0z4xbz-8grq6fy3xi.gz",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\",
@@ -6457,8 +6457,8 @@
       "RelatedAsset": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazorapp.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "sp2jzrkq1a",
-      "Integrity": "gFwJ5SUo5U/2jrBhTn1twrJypcWesyL1QVePR7HKr+w=",
+      "Fingerprint": "r55tpjgrk0",
+      "Integrity": "X2T19/HNjfQ5+1DcetNw3Wsad23tZ06IZZuFismNuoA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazorapp.pdb"
@@ -6842,7 +6842,7 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Xml.XPath.wasm"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\l4yd6xn8qw-6jnuioqdgl.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\l4yd6xn8qw-2yc8heqiyo.gz",
       "SourceId": "blazorapp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\",
@@ -6856,8 +6856,8 @@
       "RelatedAsset": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazorapp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qavgmd647k",
-      "Integrity": "jnNrqukSDb3O1JgT1h+DaXzaW/S//C/OEsuhsbEOpk8=",
+      "Fingerprint": "393ihr8018",
+      "Integrity": "CaKmhUA51xORKs0pMU59Kwumi+SizRAWTSlf/JD0lb4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\blazorapp-1\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazorapp.wasm"
@@ -8830,8 +8830,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yhykz1mbiv",
-      "Integrity": "Wk2v2zqioO39ztViwOrxsHvfGZd6zaKPbC8k+1cpOV0=",
+      "Fingerprint": "u11prqnoad",
+      "Integrity": "kuS4k7zRW6g00Uc0pIc1eqSPnmf9r0aa+z5tb/hEp5A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -9839,11 +9839,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zRN4RL5UvrNfYb79gopNbEwZDLhSqoQea3iwmvqySbs=\""
+          "Value": "\"YvBQGNyCmckLwUllCglwjBx3zKPq+o9Knokxv8pl5ug=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:36:40 GMT"
+          "Value": "Thu, 26 Jun 2025 19:47:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9853,18 +9853,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zRN4RL5UvrNfYb79gopNbEwZDLhSqoQea3iwmvqySbs="
+          "Value": "sha256-YvBQGNyCmckLwUllCglwjBx3zKPq+o9Knokxv8pl5ug="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\abqm1tlumk-dggexqy15i.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\abqm1tlumk-2k9ctm66vi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000113921167"
+          "Quality": "0.000114025086"
         }
       ],
       "ResponseHeaders": [
@@ -9874,15 +9874,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8777"
+          "Value": "8769"
         },
         {
           "Name": "ETag",
-          "Value": "\"GSJCn7ZtsvJL6nH6S/mXuZpDWxjq4QokJLUkqUEfNtE=\""
+          "Value": "\"T2bdRFfTlCoJLi/LSzYtiRuNyJgZHyuP28zkqVm1EnE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:21:31 GMT"
+          "Value": "Thu, 26 Jun 2025 19:46:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9902,19 +9902,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zRN4RL5UvrNfYb79gopNbEwZDLhSqoQea3iwmvqySbs=\""
+          "Value": "W/\"YvBQGNyCmckLwUllCglwjBx3zKPq+o9Knokxv8pl5ug=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zRN4RL5UvrNfYb79gopNbEwZDLhSqoQea3iwmvqySbs="
+          "Value": "sha256-YvBQGNyCmckLwUllCglwjBx3zKPq+o9Knokxv8pl5ug="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\abqm1tlumk-dggexqy15i.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\abqm1tlumk-2k9ctm66vi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9923,7 +9923,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8777"
+          "Value": "8769"
         },
         {
           "Name": "Content-Type",
@@ -9931,11 +9931,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GSJCn7ZtsvJL6nH6S/mXuZpDWxjq4QokJLUkqUEfNtE=\""
+          "Value": "\"T2bdRFfTlCoJLi/LSzYtiRuNyJgZHyuP28zkqVm1EnE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:21:31 GMT"
+          "Value": "Thu, 26 Jun 2025 19:46:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9953,7 +9953,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GSJCn7ZtsvJL6nH6S/mXuZpDWxjq4QokJLUkqUEfNtE="
+          "Value": "sha256-T2bdRFfTlCoJLi/LSzYtiRuNyJgZHyuP28zkqVm1EnE="
         }
       ]
     },
@@ -10105,7 +10105,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "38924"
+          "Value": "38944"
         },
         {
           "Name": "Content-Type",
@@ -10113,11 +10113,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e/rJAscsSSSNN3Nfxx8j6xcxyIxqb4lqH4QP/K68Sr4=\""
+          "Value": "\"eE8AgtqCma99VYbkFlg7R4bCp6kGkgVEqQDMvu6gJ+M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:36:39 GMT"
+          "Value": "Thu, 26 Jun 2025 19:46:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10127,18 +10127,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-e/rJAscsSSSNN3Nfxx8j6xcxyIxqb4lqH4QP/K68Sr4="
+          "Value": "sha256-eE8AgtqCma99VYbkFlg7R4bCp6kGkgVEqQDMvu6gJ+M="
         }
       ]
     },
     {
       "Route": "_framework/blazorapp.pdb",
-      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\gydv0z4xbz-l0fu6qf47o.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\gydv0z4xbz-8grq6fy3xi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000033778078"
+          "Quality": "0.000033739330"
         }
       ],
       "ResponseHeaders": [
@@ -10148,15 +10148,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29604"
+          "Value": "29638"
         },
         {
           "Name": "ETag",
-          "Value": "\"gFwJ5SUo5U/2jrBhTn1twrJypcWesyL1QVePR7HKr+w=\""
+          "Value": "\"X2T19/HNjfQ5+1DcetNw3Wsad23tZ06IZZuFismNuoA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:17:01 GMT"
+          "Value": "Thu, 26 Jun 2025 19:46:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10176,19 +10176,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"e/rJAscsSSSNN3Nfxx8j6xcxyIxqb4lqH4QP/K68Sr4=\""
+          "Value": "W/\"eE8AgtqCma99VYbkFlg7R4bCp6kGkgVEqQDMvu6gJ+M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-e/rJAscsSSSNN3Nfxx8j6xcxyIxqb4lqH4QP/K68Sr4="
+          "Value": "sha256-eE8AgtqCma99VYbkFlg7R4bCp6kGkgVEqQDMvu6gJ+M="
         }
       ]
     },
     {
       "Route": "_framework/blazorapp.pdb.gz",
-      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\gydv0z4xbz-l0fu6qf47o.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\gydv0z4xbz-8grq6fy3xi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10197,7 +10197,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29604"
+          "Value": "29638"
         },
         {
           "Name": "Content-Type",
@@ -10205,11 +10205,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gFwJ5SUo5U/2jrBhTn1twrJypcWesyL1QVePR7HKr+w=\""
+          "Value": "\"X2T19/HNjfQ5+1DcetNw3Wsad23tZ06IZZuFismNuoA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:17:01 GMT"
+          "Value": "Thu, 26 Jun 2025 19:46:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10227,7 +10227,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gFwJ5SUo5U/2jrBhTn1twrJypcWesyL1QVePR7HKr+w="
+          "Value": "sha256-X2T19/HNjfQ5+1DcetNw3Wsad23tZ06IZZuFismNuoA="
         }
       ]
     },
@@ -10242,7 +10242,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "49941"
+          "Value": "50453"
         },
         {
           "Name": "Content-Type",
@@ -10250,11 +10250,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"omQn69TBnXU/qzYE4xfiBbQLdEo+YSHjluL9VOAzSD8=\""
+          "Value": "\"iryoUAbgOQdG52GVsxOJh6WA0mmYQaCOWIVA9Y3flk4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:36:39 GMT"
+          "Value": "Thu, 26 Jun 2025 19:46:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10264,18 +10264,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-omQn69TBnXU/qzYE4xfiBbQLdEo+YSHjluL9VOAzSD8="
+          "Value": "sha256-iryoUAbgOQdG52GVsxOJh6WA0mmYQaCOWIVA9Y3flk4="
         }
       ]
     },
     {
       "Route": "_framework/blazorapp.wasm",
-      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\l4yd6xn8qw-6jnuioqdgl.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\l4yd6xn8qw-2yc8heqiyo.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000049451093"
+          "Quality": "0.000049419323"
         }
       ],
       "ResponseHeaders": [
@@ -10285,15 +10285,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20221"
+          "Value": "20234"
         },
         {
           "Name": "ETag",
-          "Value": "\"jnNrqukSDb3O1JgT1h+DaXzaW/S//C/OEsuhsbEOpk8=\""
+          "Value": "\"CaKmhUA51xORKs0pMU59Kwumi+SizRAWTSlf/JD0lb4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:17:01 GMT"
+          "Value": "Thu, 26 Jun 2025 19:46:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10313,19 +10313,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"omQn69TBnXU/qzYE4xfiBbQLdEo+YSHjluL9VOAzSD8=\""
+          "Value": "W/\"iryoUAbgOQdG52GVsxOJh6WA0mmYQaCOWIVA9Y3flk4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-omQn69TBnXU/qzYE4xfiBbQLdEo+YSHjluL9VOAzSD8="
+          "Value": "sha256-iryoUAbgOQdG52GVsxOJh6WA0mmYQaCOWIVA9Y3flk4="
         }
       ]
     },
     {
       "Route": "_framework/blazorapp.wasm.gz",
-      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\l4yd6xn8qw-6jnuioqdgl.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\obj\\Release\\net8.0\\compressed\\l4yd6xn8qw-2yc8heqiyo.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10334,7 +10334,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20221"
+          "Value": "20234"
         },
         {
           "Name": "Content-Type",
@@ -10342,11 +10342,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jnNrqukSDb3O1JgT1h+DaXzaW/S//C/OEsuhsbEOpk8=\""
+          "Value": "\"CaKmhUA51xORKs0pMU59Kwumi+SizRAWTSlf/JD0lb4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:17:01 GMT"
+          "Value": "Thu, 26 Jun 2025 19:46:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10364,7 +10364,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jnNrqukSDb3O1JgT1h+DaXzaW/S//C/OEsuhsbEOpk8="
+          "Value": "sha256-CaKmhUA51xORKs0pMU59Kwumi+SizRAWTSlf/JD0lb4="
         }
       ]
     },
@@ -38553,7 +38553,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1374"
+          "Value": "1279"
         },
         {
           "Name": "Content-Type",
@@ -38561,11 +38561,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Wk2v2zqioO39ztViwOrxsHvfGZd6zaKPbC8k+1cpOV0=\""
+          "Value": "\"kuS4k7zRW6g00Uc0pIc1eqSPnmf9r0aa+z5tb/hEp5A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:35:55 GMT"
+          "Value": "Thu, 26 Jun 2025 19:46:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38575,12 +38575,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Wk2v2zqioO39ztViwOrxsHvfGZd6zaKPbC8k+1cpOV0="
+          "Value": "sha256-kuS4k7zRW6g00Uc0pIc1eqSPnmf9r0aa+z5tb/hEp5A="
         }
       ]
     },
     {
-      "Route": "index.yhykz1mbiv.html",
+      "Route": "index.u11prqnoad.html",
       "AssetFile": "C:\\Users\\User\\Desktop\\blazorapp-1\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -38590,7 +38590,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1374"
+          "Value": "1279"
         },
         {
           "Name": "Content-Type",
@@ -38598,11 +38598,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Wk2v2zqioO39ztViwOrxsHvfGZd6zaKPbC8k+1cpOV0=\""
+          "Value": "\"kuS4k7zRW6g00Uc0pIc1eqSPnmf9r0aa+z5tb/hEp5A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Jun 2025 19:35:55 GMT"
+          "Value": "Thu, 26 Jun 2025 19:46:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38612,7 +38612,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yhykz1mbiv"
+          "Value": "u11prqnoad"
         },
         {
           "Name": "label",
@@ -38620,7 +38620,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Wk2v2zqioO39ztViwOrxsHvfGZd6zaKPbC8k+1cpOV0="
+          "Value": "sha256-kuS4k7zRW6g00Uc0pIc1eqSPnmf9r0aa+z5tb/hEp5A="
         }
       ]
     },
