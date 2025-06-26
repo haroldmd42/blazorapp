@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Setup .NET SDK
@@ -21,13 +21,16 @@ jobs:
         with:
           dotnet-version: '8.0.x'
 
+      - name: Clean build artifacts
+        run: dotnet clean
+
       - name: Restore dependencies
         run: dotnet restore
 
-      - name: Build and publish
-        run: dotnet publish -c Release -p:PublishTrimmed=false -p:BlazorWebAssemblyLoadAllGlobalizationData=true -p:BasePath=/blazorapp/ -o build
+      - name: Build and publish with base path
+        run: dotnet publish -c Release -p:PublishTrimmed=false -p:BlazorWebAssemblyLoadAllGlobalizationData=true -p:BasePath=/blazorapp/ --nologo -o build
 
-      - name: Add .nojekyll file
+      - name: Add .nojekyll file to prevent GitHub Pages processing
         run: echo > build/wwwroot/.nojekyll
 
       - name: Deploy to GitHub Pages
