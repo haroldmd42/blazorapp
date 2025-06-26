@@ -1,0 +1,19 @@
+﻿@page "/"
+@inject IConfiguration config
+
+<PageTitle>Home</PageTitle>
+<ModuleTitle Title="@HelloMessage"/>
+
+
+<p>Este es una numero que vamos a necesitar para la prueba : @numero</p>
+
+@code{
+    private int numero = 0;
+    public string HelloMessage = "";
+
+    protected override void OnInitialized()
+    {
+        HelloMessage = config["helloMessage"];
+    }
+
+}

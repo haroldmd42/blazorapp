@@ -1,0 +1,84 @@
+@page "/addProduct"
+@inject IProductService productService
+@inject ICategoryService categoryService
+@inject NavigationManager NavigationManager
+@inject IToastService ToastService
+
+<PageTitle>Añadir productos</PageTitle>
+
+<ModuleTitle Title="Añadir productos" />
+
+<div class="mb-4">
+    <button class="btn btn-outline-secondary" @onclick="@(() => NavigationManager.NavigateTo("/products"))">
+        <i class="bi bi-arrow-left me-2"></i> Regresar
+    </button>
+</div>
+
+<div class="card shadow-sm border-0 p-4">
+    <h3 class="card-title mb-4">
+        <i class="bi bi-box-seam me-2"></i> Registrar nuevo producto
+    </h3>
+
+    <EditForm Model="@product" OnValidSubmit="Save">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="row g-3">
+            <div class="col-md-8 col-lg-6">
+                <label for="title" class="form-label">Nombre del producto</label>
+                <InputText id="title" @bind-Value="product.Title" class="form-control" required />
+            </div>
+
+            <div class="col-md-8 col-lg-6">
+                <label for="price" class="form-label">Precio del producto</label>
+                <InputNumber id="price" @bind-Value="product.Price" class="form-control" required />
+            </div>
+
+            <div class="col-md-8 col-lg-6">
+                <label for="category" class="form-label">Categoría</label>
+                <InputSelect id="category" @bind-Value="product.CategoryId" class="form-select" required>
+                    <option value="">Seleccionar categoría</option>
+                    @foreach (var category in categories)
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+                </InputSelect>
+            </div>
+
+            <div class="col-md-8 col-lg-6">
+                <label for="description" class="form-label">Descripción</label>
+                <InputTextArea id="description" @bind-Value="product.Description" class="form-control" rows="3" required />
+            </div>
+
+            <div class="col-md-8 col-lg-6">
+                <label for="image" class="form-label">Imagen (URL)</label>
+                <InputText id="image" @bind-Value="product.Image" class="form-control" required />
+            </div>
+        </div>
+
+        <div class="mt-4">
+            <button type="submit" class="btn btn-success">
+                <i class="bi bi-save me-2"></i> Guardar
+            </button>
+        </div>
+    </EditForm>
+</div>
+
+@code {
+    private Product product = new();
+    private List<Category> categories = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        categories = await categoryService.Get();
+    }
+
+    private async Task Save()
+    {
+        product.Images = new string[1] { product.Image };
+
+        await productService.Add(product);
+        ToastService.ShowSuccess("Producto añadido correctamente");
+        NavigationManager.NavigateTo("/products");
+    }
+}
